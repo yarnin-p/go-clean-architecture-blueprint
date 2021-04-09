@@ -1,0 +1,24 @@
+version: "3.8"
+
+networks:
+  default:
+    name: my-network
+
+services:
+  my-go-project-template:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: my-go-project-template
+    restart: on-failure
+    expose:
+      - 9000
+    ports:
+      - 9000:9000
+    env_file:
+      - ./config/dev.env
+    networks:
+      - default
+    volumes:
+      #      - .:/var/www/html
+      - .:/go/src/my-go-project-template

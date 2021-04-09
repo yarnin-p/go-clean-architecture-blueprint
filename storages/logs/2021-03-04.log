@@ -1,0 +1,28 @@
+{"code":200,"level":"info","msg":"Start post department data to TGH","time":"2021-03-04 22:19:42"}
+{"code":200,"level":"info","msg":"Connecting to BRH db","time":"2021-03-04 22:19:42"}
+{"code":200,"level":"info","msg":"Fetching department data from BRH","time":"2021-03-04 22:19:42"}
+{"code":200,"level":"info","msg":"Fetched department data from BRH","time":"2021-03-04 22:19:42"}
+{"code":200,"level":"info","msg":"Make request for post department data from BRH to TGH platform","time":"2021-03-04 22:19:42"}
+{"code":500,"level":"info","msg":"Posted department data to TGH platform","time":"2021-03-04 22:19:42"}
+{"code":200,"level":"info","msg":"Closing database connection","time":"2021-03-04 22:19:42"}
+{"code":200,"level":"info","msg":"Closed database connection","time":"2021-03-04 22:19:42"}
+{"code":200,"level":"info","msg":"Finish post department data to TGH","time":"2021-03-04 22:19:42"}
+{"code":200,"level":"info","msg":"Start post department data to TGH","time":"2021-03-04 22:19:47"}
+{"code":200,"level":"info","msg":"Connecting to BRH db","time":"2021-03-04 22:19:47"}
+{"code":200,"level":"info","msg":"Fetching department data from BRH","time":"2021-03-04 22:19:47"}
+{"code":200,"level":"info","msg":"Fetched department data from BRH","time":"2021-03-04 22:19:47"}
+{"code":200,"level":"info","msg":"Make request for post department data from BRH to TGH platform","time":"2021-03-04 22:19:47"}
+{"code":500,"level":"info","msg":"Posted department data to TGH platform","time":"2021-03-04 22:19:47"}
+{"code":200,"level":"info","msg":"Closing database connection","time":"2021-03-04 22:19:47"}
+{"code":200,"level":"info","msg":"Closed database connection","time":"2021-03-04 22:19:47"}
+{"code":200,"level":"info","msg":"Finish post department data to TGH","time":"2021-03-04 22:19:47"}
+{"code":200,"level":"info","msg":"Start post department data to TGH","time":"2021-03-04 22:19:52"}
+{"code":200,"level":"info","msg":"Connecting to BRH db","time":"2021-03-04 22:19:52"}
+{"code":200,"level":"info","msg":"Fetching department data from BRH","time":"2021-03-04 22:19:52"}
+{"code":200,"level":"info","msg":"Fetched department data from BRH","time":"2021-03-04 22:19:52"}
+{"code":200,"level":"info","msg":"Make request for post department data from BRH to TGH platform","time":"2021-03-04 22:19:52"}
+{"code":500,"level":"info","msg":"Posted department data to TGH platform","time":"2021-03-04 22:19:52"}
+{"code":200,"level":"info","msg":"Closing database connection","time":"2021-03-04 22:19:52"}
+{"code":200,"level":"info","msg":"Closed database connection","time":"2021-03-04 22:19:52"}
+{"code":200,"level":"info","msg":"Finish post department data to TGH","time":"2021-03-04 22:19:52"}
+{"level":"fatal","msg":"Failed to listen and serve: http: Server closed","time":"2021-03-04 22:19:52"}
